@@ -57,4 +57,4 @@ jobs:
           app-name: 'Nextcloud'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BC5598F65FD34BD38F00634908698975 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C384481C442A40D88583516E1D785155 }}
